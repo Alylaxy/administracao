@@ -11,9 +11,20 @@
 ### Valores
 > Princípios que orientam nossas escolhas, como honstidade e respeito.
 ### Para refletir
-Um conhecido está no começo de uma fila que você acabou de entrar. Você daria um "jeitinho" para ir conversar com ele e passar na frente de todos que já estavam esperando na fila? Ou você passa na frente?
-
-E na fila do SUS, daria um jeito de passar na frente de uma fila não-física para receber os resultados de um exame mais rápido em uma situação de emergência?
+1. Um conhecido está no começo de uma fila que você acabou de entrar e te chamou. 
+    > Você daria um "jeitinho" passar na frente dos que já estavam na fila
+1. Um amigo seu está na recepção da fila do SUS e disse que conseguiria te passar na frente dos outros nessa fila não-física.
+    > Você aceitaria a ajuda e passaria na frente dos outros? E em uma situação de emergência?
+1. A chefia pede que você apresenta resultados melhores do que os dados realmente mostram.
+    > Você atende ao pedido ou mantem os números inalterados?
+2. Uma pessoa solicita a ocÇe dados de clientes aos quais teve acesso por causa do cargo.
+    > É correto compartilhar essas informações por amizade?
+3. Duas pessoas estão disputando uma vaga. Um gestor favorece um amigo, ignorando critérios profissionais.
+    > Esta decisão de contratar o amigo é ética?
+1. Dois administradores discordam sobre um procedimento. A discussão vira ataque pessoal e exposição pública.
+    > Como resolver o conflito de maneira profissional?
+1. Uma empresa exige metas inviáveis. Para alcancá-las, a equipe é incentivada a omitir reclamações de clientes e alterar informações em relatórios.
+    > Quais condutas são inadequadas? O que o gestor deve fazer?
 ## Princípios presentes na prática ética
 ### Honestidade
 >Não enganar, manipular dados ou omitir informações reçevamtes.
@@ -45,3 +56,38 @@ Os Conselhos Regionais de Administração atua regionalmente e enforça o funcio
 - Preservar a reputação e a dignidade da profissão;
 - Esclarecer a função social da organização;
 - Considerar a preservação ambiental nas atividades profissionais.
+
+### O que **não** é conduta ética
+- Discriminar ou ofender outros profissionais;
+- Praticar assédio moral ou sexual no exercício profissional;
+- Prejudicar colegas por atitudes, declarações ou omissões;
+- Promover preconceitos no exercício das funções profissionais.
+- Concorrer de forma desleal ou disputar indevidamente o cargo ocupado por colega.
+- Abandonar atividades sem justificativa ou comunicação prévia.
+- Não prestar contas de bens e recursos confiados ao profissional.
+Dificultar a fiscalização ou descumprir determinações do sistema.
+
+## Direitos dos profissionais
+- Exercer a profissão sem sofrer discriminação;
+- Receber remuneração **justa** e **transparente** pelo trabalho realizado;
+- Recusar condições de trabalho degradantes;
+- Apontar normas prejudiciais ao exercício profissional dos orgaos competentes
+
+### Respeito nas relações profissionais
+
+- Com colegas,deve-se agir com respeito, urbanidade, solidariedade e colaboração, bem como evitar atitudes que prejudiquem terceiros.
+- Com a profissão, deve-se valorizar as entidades de classe e cumprir as obrigações.
+
+## Penalidades
+
+### Possíveis penalidades
+- Advertência escrita e reservada;
+- Censura pública (não ideal e deve ser feito com cautela);
+- Suspensão do exercício profissonal;
+- cancelamento do registro profissional.
+
+### Avaliação de infrações
+- A penalidade depende da infração e da gradação prevista no Codigo;
+- Há direitos ao contraditório e à ampla defesa;
+- Circuntancia atenuantes ou agravantes podem alterar a sanção;
+- Reincidencia e fravidade da conduta devem ser consideradas.
