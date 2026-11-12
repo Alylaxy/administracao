@@ -5,9 +5,9 @@
 ## O que é
 A análise SWOT (ou matriz FOFA em português), é uma ferramenta de planejamento estratégico usada para avaliar os cenários internos e externos de um negocio ou projeto. É o ponto de partida para a tomada de decisão estratégica.
 
-> Strength(Força): Vantagens e diferenciais competitivos. "Por quê o cliente escolheria meu negócio ao invés da concorrência".
+> Strength(Força): Vantagens e diferenciais competitivos. "Por que o cliente escolheria meu negócio ao invés da concorrência?".
 
-> Weakness(Fraqueza): Limitações internas ou pontos. "Por que estou perdendo clientes".
+> Weakness(Fraqueza): Limitações internas ou pontos. "Por que estou perdendo clientes?".
 
 > Opportunities(Oportunidades): Fatores externos e tendências de mercado favoráveis. "Um evento externo ocorreu e consigo usar esse evento para captar mais renda".
 
